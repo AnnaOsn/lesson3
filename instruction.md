@@ -29,3 +29,15 @@
 ![Привет!](1472042719_15.jpg)
 
 ## Ссылки
+https://github.com/
+## GitHub
+Для отправки своего репозитория во внешний ресурс требуется команда _git push_
+
+
+git remote add origin https://github.com/AnnaOsn/lesson3.git
+
+git branch -M master - называем ветку Мастер и переключаемся на нее
+
+git push -u origin master  - информация переносится на рехаб
+
+новая инфа
